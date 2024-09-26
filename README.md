@@ -1,2 +1,0 @@
-# WorldvsUSA
-first Azure app
